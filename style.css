@@ -1,0 +1,78 @@
+
+
+
+
+h1 {font-family: 'Potta One', cursive;
+    color: rgb(80, 80, 82);
+    font-size: 50px;
+    text-align: center;
+}
+
+.form-row {
+  padding: 10px 0;
+  display:flex ;
+}
+
+.form-row label {
+  padding-right: 10px;
+}
+
+.form-row input{
+  flex:0cm
+  
+}
+
+.topnav {
+    background-color: rgb(146, 41, 41);
+    overflow: hidden;
+    height:"500px"
+  }
+
+  .topnav a {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: dashed;
+    font-size: 24px;
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+
+  
+
+
+h2 {color: rgb(5, 14, 5);
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+p{text-align:center;
+color:black 
+}
+
+img:hover {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 0.5s;
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h3{<h1 style="text-align:center"
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-size: 0vmax;
+}
+
